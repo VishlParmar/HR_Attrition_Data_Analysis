@@ -13,7 +13,7 @@ By leveraging Excel, Python, and Power BI, the goal was to deliver actionable in
 - Provide strategic recommendations for reducing attrition and improving employee engagement.  
 
 📂 Dataset  
-- Source: HR_Atttrition 
+- Source: https://github.com/VishlParmar/HR_Attrition_Data_Analysis
 - Records: 1471 employees  
 - Columns Include: Age, Gender, Department, JobRole, MonthlyIncome, WorkLifeBalance, YearsAtCompany, Attrition (Yes/No), etc.  
 
